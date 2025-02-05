@@ -60,7 +60,10 @@ class Database:
             for item in items:
                 orders_text.insert(END, f"{item[0]:<15}{item[1]:<10}{item[2]:<10.2f}{item[3]:<10.2f}\n")
                 total_bill += item[3]
-
+           # Display total
+            orders_text.insert(END, "-" * 45 + "\n")
+            orders_text.insert(END, f"{'Total Bill:':<35}${total_bill:.2f}\n")
+            orders_text.insert(END, "\n" + "Thank you for visiting us!" + "\n\n")
             
         orders_text.config(state="disabled")
 
