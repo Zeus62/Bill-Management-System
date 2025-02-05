@@ -40,8 +40,8 @@ Ensure you have **Python 3.7+** installed on your system.
 
 ## 📸 Screenshots (Optional)
 
-<image src= "https://github.com/Zeus62/Bill-Management-System/ScreenShots/1.png" width ="50%" height = "50%" />
-<image src= "https://github.com/Zeus62/Bill-Management-System/ScreenShots/1.png" width ="50%" height = "50%" />
+<image src= "https://github.com/Zeus62/Bill-Management-System/blob/main/ScreenShots/1.png" width ="50%" height = "50%" />
+<image src= "https://github.com/Zeus62/Bill-Management-System/blob/main/ScreenShots/2.png" width ="50%" height = "50%" />
 
 ## ⚙️ Technologies Used
 
